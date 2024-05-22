@@ -1,0 +1,2 @@
+echo "stage then commit"
+
