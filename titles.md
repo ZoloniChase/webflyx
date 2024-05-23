@@ -5,6 +5,7 @@
 * 12 Years a Slave
 * The Big Short
 * 12 Monkeys
+* The Curious Case of Benjamin Button
 
 <!--
 commit hash:97bf0ab04bb843d5ec486f80068b614cbcea593a
